@@ -153,3 +153,6 @@ training_data/created_datasets/*
 
 .azureml/
 ml_workspace
+
+#Exclude secret variables
+env_secrets
